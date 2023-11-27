@@ -1,2 +1,2 @@
-# DatabaseManagementProj
-## Hotel Manager Database project
+# Hotel Manager Database project
+
